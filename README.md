@@ -23,8 +23,8 @@ My first production experience was at 2018, I built company phonebook that based
 
 - 🔥 Vue.js / Nuxt.js
 - ❤️ HTML5
-- 💔 CSS3
-- 💛 JS (ES6) + TypeScript
+- 💔 CSS3 / SCSS/ LESS
+- 💛 JS + TypeScript
 - 💥 Eleventy
 - 🌪 Node.js (Express)
 
