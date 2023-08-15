@@ -35,5 +35,3 @@ I'm a frontend developer specializing in Vue.js and accessibility. I also have e
 Living in Georgia (country). I am ready to relocate.
 
 I am always open to new projects and ideas. Email me at [danila@katokdoes.art](mailto:danila@katokdoes.art) and let's discuss how I can help your business grow!
-
-[View this page on GitHub](https://github.com/katokdoescode/katokdoes.art)
