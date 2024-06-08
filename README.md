@@ -6,10 +6,11 @@ I'm a frontend developer specializing in Vue.js and accessibility. I also have e
 
 ## My experience
 
-- Feb. 2023 - Present		| [Hyperskill](https://hyperskill.org/): Frontend expert and author of educational articles;
-- Jan. 2021 - Present   | [Fresh Auto](https://freshauto.ru/): Frontend developer, including working on complex projects;
-- Dec. 2021 - Apr. 2022 | [ROSDOR Research Institute](https://consult.rosdorspk.ru/): Fullstack developer, setting up a consulting center;
-- Sep. 2020 - Aug. 2021 | [OfficeTower](https://officetower.ru/): Freelance developer, creating a website to sell offices.
+- Step. 2023 - Present | [Hyperskill](https://hyperskill.org/): [Vue.js 3] Frontend developer, mastering tools for content creators, building bridges between the user and AI;
+- Feb. 2023 - Step. 2023		| Frontend developer [Hyperskill](https://hyperskill.org/): Frontend expert and author of educational articles;
+- Jan. 2021 - Present   | [Fresh Auto](https://freshauto.ru/): [Nuxt3.js 3, Vue.js 3, Vanilla JS, Legacy code] Frontend developer, including working on complex projects;
+- Dec. 2021 - Apr. 2022 | [ROSDOR Research Institute](https://consult.rosdorspk.ru/): [Node/Express.js, Vue.js 2] Fullstack developer, setting up a consulting center;
+- Sep. 2020 - Aug. 2021 | [OfficeTower](https://officetower.ru/): [Django,Vanilla JS] Freelance developer, creating a website to sell offices.
 
 ## What I do
 
